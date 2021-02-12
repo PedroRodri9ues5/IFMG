@@ -1,2 +1,0 @@
-Na passagem por valor, é passada uma cópia do valor da variável,
-na passagem por referência, é passada uma referência à própria variável
